@@ -2,8 +2,8 @@
     Name:          NERF Turret.ino
     Created:	   12/01/2020 17:55:17
     Author:        shurillu@tiscalinet.it
-	Description:   Blynk platform porting of the awesome work of Kevin. Check here
-	               https://www.littlefrenchkev.com/bluetooth-nerf-turret
+    Description:   Blynk platform porting of the awesome work of Kevin. Check here
+	           https://www.littlefrenchkev.com/bluetooth-nerf-turret
 	
     PAY ATTENTION: SOME PINS/ANGLES OF YOUR TURRET COULD BE DIFFERENT FORM WHAT IS USED HERE
                    CHECK ALL SECTIONS MARKED BY "CHECK THESE/THIS"
