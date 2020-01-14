@@ -5,8 +5,8 @@
 	Description:   Blynk platform porting of the awesome work of Kevin. Check here
 	               https://www.littlefrenchkev.com/bluetooth-nerf-turret
 	
-	PAY ATTENTION: SOME PINS/ANGLES OF YOUR TURRET COULD BE DIFFERENT FORM WHAT IS USED HERE
-	               CHECK ALL SECTIONS MARKED BY "CHECK THESE/THIS"
+    PAY ATTENTION: SOME PINS/ANGLES OF YOUR TURRET COULD BE DIFFERENT FORM WHAT IS USED HERE
+                   CHECK ALL SECTIONS MARKED BY "CHECK THESE/THIS"
 */
 
  /* Comment this out to disable prints and save space */
