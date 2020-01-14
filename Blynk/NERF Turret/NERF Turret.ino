@@ -43,7 +43,7 @@
 
 // CHECK THIS  <-------------------------------------------
 // Blynk app token
-#define BLYNK_TOKEN "f3b288b3a4b241509a5d4e34a9a76e5d" 
+#define BLYNK_TOKEN "YourBlynkAppToken" 
 
 Servo panServo;
 Servo tiltServo;
